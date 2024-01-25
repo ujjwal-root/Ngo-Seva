@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+.title-lg{
+    font-size: 4rem;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.about-p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
+.member-lg{
+    font-size: 3rem;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-bottom: 60px;
+}
